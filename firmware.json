@@ -3,5 +3,5 @@
   "version": 2,
   "host": "raw.githubusercontent.com",
   "port": 80,
-  "bin": "/UdomSladtookha/MAS_Malee/master/fw.bin"
+  "bin": "/UdomSladtookha/Example-OTA/master/fw.bin"
 }
