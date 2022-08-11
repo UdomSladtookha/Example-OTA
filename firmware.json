@@ -1,6 +1,6 @@
 {
   "type": "fwMas-esp32",
-  "version": 4,
+  "version": 2,
   "host": "raw.githubusercontent.com",
   "port": 80,
   "bin": "/UdomSladtookha/Example-OTA/main/fw.bin"
